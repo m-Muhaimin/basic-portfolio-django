@@ -44,17 +44,21 @@ To run this website locally, follow these steps:
 4. **Activate the virtual environment:**
 
    **On Windows:**
+
+         ```bash
          .\env\Scripts\activate
 
    **On macOS and Linux:**
+
+         ```bash
          source env/bin/activate
    
-5. **Install the required dependencies:**
+6. **Install the required dependencies:**
 
       ```bash
       pip install -r requirements.txt
 
-6. **Run the development server:**
+7. **Run the development server:**
 
       ```bash
       python manage.py runserver
