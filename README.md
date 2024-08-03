@@ -49,15 +49,15 @@ To run this website locally, follow these steps:
    **On macOS and Linux:**
          source env/bin/activate
    
-**5. Install the required dependencies:**
+5. **Install the required dependencies:**
 
       pip install -r requirements.txt
 
-**6. Run the development server:**
+6. **Run the development server:**
 
       python manage.py runserver
 
-**6. Open your browser and visit http://127.0.0.1:8000/ to view the site locally.**
+6. **Open your browser and visit http://127.0.0.1:8000/ to view the site locally.**
 
 ## Deployment
 This website can be deployed using various hosting platforms that support Django, such as Heroku, PythonAnywhere, or Vercel. Detailed deployment instructions can be found in the Django deployment documentation.
@@ -66,4 +66,4 @@ This website can be deployed using various hosting platforms that support Django
 If you have any questions or would like to connect, feel free to reach out to me:
 
 Email: mahmud17321@gmail.com
-LinkedIn: [Muhaimin's LinkedIn]([url](https://www.linkedin.com/in/mahmud-al-muhaimin/))
+LinkedIn: LinkedIn: [Muhaimin's LinkedIn](https://www.linkedin.com/in/mahmud-al-muhaimin/)
