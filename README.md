@@ -1,7 +1,5 @@
 # Basic potfolio website built with django
 
-# Muhaimin's Portfolio Website
-
 This is my personal portfolio website built using Django. It showcases my skills, experience, and projects in software development and artificial intelligence.
 
 ## About
@@ -32,3 +30,40 @@ To run this website locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/m-Muhaimin/basic-portfolio-django.git
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd repository-name
+
+3. **Create a virtual environment:**
+
+   ```bash
+   python -m venv env
+   
+4. **Activate the virtual environment:**
+
+   **On Windows:**
+         .\env\Scripts\activate
+
+   **On macOS and Linux:**
+         source env/bin/activate
+   
+**5. Install the required dependencies:**
+
+      pip install -r requirements.txt
+
+**6. Run the development server:**
+
+      python manage.py runserver
+
+**6. Open your browser and visit http://127.0.0.1:8000/ to view the site locally.**
+
+## Deployment
+This website can be deployed using various hosting platforms that support Django, such as Heroku, PythonAnywhere, or Vercel. Detailed deployment instructions can be found in the Django deployment documentation.
+
+## Contact
+If you have any questions or would like to connect, feel free to reach out to me:
+
+Email: mahmud17321@gmail.com
+LinkedIn: [Muhaimin's LinkedIn]([url](https://www.linkedin.com/in/mahmud-al-muhaimin/))
