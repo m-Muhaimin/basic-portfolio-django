@@ -51,10 +51,12 @@ To run this website locally, follow these steps:
    
 5. **Install the required dependencies:**
 
+      ```bash
       pip install -r requirements.txt
 
 6. **Run the development server:**
 
+      ```bash
       python manage.py runserver
 
 6. **Open your browser and visit http://127.0.0.1:8000/ to view the site locally.**
